@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**elhajin/elhajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **ElHajin** , a self-taught web3 developer and researcher with a passion for zero-knowledge (zK) knowledge.
 
-Here are some ideas to get you started:
+🔭 **What I Do**
+- I specialize in building decentralized applications (DApps) and smart contracts on blockchain platforms.
+- I explore and research cutting-edge technologies related to zero-knowledge proofs and privacy-preserving solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **My Journey**
+- I'm entirely self-taught and have a deep curiosity for emerging technologies.
+- I believe in the power of open-source and collaborative development.
+
+💡 **Current Interests**
+- Zero-Knowledge Proofs (zKPs): Exploring how they can revolutionize privacy and security on the blockchain.
+- Web3 Development: Building applications that empower users and ensure data sovereignty.
+- Blockchain Research: Staying up-to-date with the latest developments in the decentralized space.
+
+📫 **Connect With Me**
+- [LinkedIn](https://www.linkedin.com/in/amin-bouanane-702526289/)
+- [Twitter](https://twitter.com/mmdmyn191743163)
+
+
+Feel free to explore my repositories and get in touch if you share similar interests or have any questions. Let's learn and build together! 🚀
