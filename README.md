@@ -12,7 +12,6 @@ I'm **ElHajin** , a self-taught web3 developer and researcher with a passion for
 
 💡 **Current Interests**
 - Zero-Knowledge Proofs (zKPs): Exploring how they can revolutionize privacy and security on the blockchain.
-- Web3 Development: Building applications that empower users and ensure data sovereignty.
 - Blockchain Research: Staying up-to-date with the latest developments in the decentralized space.
 
 📫 **Connect With Me**
