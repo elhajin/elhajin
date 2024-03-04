@@ -4,7 +4,7 @@ I'm **ElHajin** , a self-taught web3 developer and researcher with a passion for
 
 
 📫 **Connect With Me**
-- [LinkedIn](https://www.linkedin.com/in/amin-bouanane-702526289/)
+- [LinkedIn](https://www.linkedin.com/in/elhaj-702526289/)
 - [Twitter](https://twitter.com/mmdmyn191743163)
 
 
